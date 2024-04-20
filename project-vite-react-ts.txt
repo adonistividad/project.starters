@@ -1,0 +1,12 @@
+https://medium.com/@pascalokereke18/how-to-setup-a-react-project-with-vite-6c2130d3bce
+yarn create vite
+
+? Project name: » vite-project
+? Select a framework: » - Use arrow-keys. Return to submit.
+>   React
+? Select a variant: » - Use arrow-keys. Return to submit.
+>   TypeScript
+cd vite-project
+
+yarn 
+yarn dev   -> yarn start:dev
